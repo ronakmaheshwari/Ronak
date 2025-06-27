@@ -64,6 +64,7 @@ export default function RootLayout({
     <html lang="en">
       <head>
         <link rel="icon" href="/icon.ico" />
+        <meta name="google-site-verification" content="Pi-g3uHmmHeyWc4OikGAE1V1LXeyd9MLbnsQeEw7Ou8" />
       </head>
       <body
         className={`${fontSans.variable} ${fontMono.variable}`}
